@@ -1,0 +1,26 @@
+
+[
+    {
+        "id": 1,
+        "question": "What is Bookmark?",
+        "answer": "The self-study lessons in this section are written and organised by English level based on the Common European Framework of Reference for languages (CEFR). There are different types of texts and interactive exercises that practise the reading skills you need to do well in your studies, to get ahead at work and to communicate in English in your free time."
+    },
+
+    {
+        "id": 2,
+        "question": "How car I request a new browser?",
+        "answer": "Our online English classes feature lots of useful learning materials and activities to help you develop your reading skills with confidence in a safe and inclusive learning environment."
+    },
+
+    {
+        "id": 3,
+        "question": "Is there a mobile app?",
+        "answer": "Reading practice to help you understand long, complex texts about a wide variety of topics, some of which may be unfamiliar. Texts include specialised articles, biographies and summaries."
+    },
+
+    {
+        "id": 4,
+        "question": "What about other chromium browsers?",
+        "answer": "Reading practice to help you understand simple texts and find specific information in everyday material. Texts include emails, invitations, personal messages, tips, notices and signs."
+    }
+]

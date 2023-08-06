@@ -1,0 +1,49 @@
+.download__container{
+    padding: 1rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 2rem;
+    text-align: center;
+}
+
+.download__phrase{
+    margin: 1rem;
+}
+
+
+.download__title{
+    margin-bottom: 1rem;
+    color: rgb(36, 16, 129);
+}
+
+.download__text{
+    color: rgb(157, 160, 160);
+    line-height: 1.5rem;
+}
+
+
+.download__card-container{
+    display: flex;
+    flex-direction: column;
+    gap: 4rem;
+}
+
+@media(min-width:600px){
+    .download__card-container{
+        display: flex;
+        flex-direction: row;
+        height: 430px;
+        align-items: center;
+    }
+
+
+    .download__card-container div:nth-child(1){
+        align-self: flex-start;
+    }
+
+    .download__card-container div:nth-child(3){
+        align-self: flex-end;
+    }
+
+}
